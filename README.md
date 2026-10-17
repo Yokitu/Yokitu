@@ -1,8 +1,8 @@
 # Hi there, I'm Yokitu 👋
 
-![头像](https://cloudflareimg.cdn.sn/i/6acb97a301667_1791727523.webp)
-
 这里是 **Tiry 团队 团长** 的 GitHub 账号。
+
+![头像](https://cloudflareimg.cdn.sn/i/6acb97a301667_1791727523.webp)
 
 ## 🚀 我们在做什么
 
